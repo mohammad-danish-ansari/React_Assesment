@@ -203,7 +203,7 @@ const SideBar = () => {
           <ListItemText primary="Pricelist" primaryTypographyProps={listTextStyle} />
         </ListItemButton>
 
-        {/* Newly added - User */}
+        
         <ListItemButton>
           <ListItemIcon sx={{
             color: "white",
@@ -218,7 +218,7 @@ const SideBar = () => {
           <ListItemText primary="User" primaryTypographyProps={listTextStyle} />
         </ListItemButton>
 
-        {/* Newly added - Leads */}
+     
         <ListItemButton>
           <ListItemIcon sx={{
             color: "white",

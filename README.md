@@ -1,3 +1,32 @@
+### 1. Create a React App (if not already)
+
+npx create-react-app my-app
+cd my-app
+
+### Install Material UI
+
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/icons-material
+
+# Inventory Management UI (React + Material UI)
+
+This is a responsive inventory management user interface built using **React** and **Material UI (MUI)**. It includes components for product details, metadata, vehicle mapping, product options, accessories, and more.
+
+## Features
+
+- Sidebar navigation with collapsible menus
+- Dynamic inventory sections (Product Options, Accessories, etc.)
+- Styled with MUI and fully responsive
+- Clean and modular component structure
+
+## Tech Stack
+
+- React
+- Material UI
+- MUI Icons
+- React Router
+- JavaScript / JSX
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

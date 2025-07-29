@@ -53,7 +53,7 @@ const AlternatesAccessories = () => {
                     >
                         <Typography variant="h6" mb={1} sx={{ display: 'flex', alignItems: 'center' }}>
                             <CompareArrowsIcon sx={{
-                                backgroundColor: '#6a1b9a', // light purple
+                                backgroundColor: '#6a1b9a',
                                 boxShadow: '0 2px 6px rgba(0,0,0,0.15)',
                                 color: 'white',
                                 padding: '2px',
@@ -68,7 +68,7 @@ const AlternatesAccessories = () => {
                         <Box>
                             <IconButton
                                 sx={{
-                                    backgroundColor: '#6a1b9a', // light purple
+                                    backgroundColor: '#6a1b9a',
                                     boxShadow: '0 2px 6px rgba(0,0,0,0.15)',
                                     color: 'white',
                                     padding: '2px',
@@ -131,7 +131,7 @@ const AlternatesAccessories = () => {
                         <Box>
                             <IconButton
                                 sx={{
-                                    backgroundColor: '#6a1b9a', // light purple
+                                    backgroundColor: '#6a1b9a', 
                                     boxShadow: '0 2px 6px rgba(0,0,0,0.15)',
                                     color: 'white',
                                     padding: '2px',
