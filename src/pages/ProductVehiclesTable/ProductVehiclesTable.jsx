@@ -114,7 +114,7 @@ const ProductVehiclesTable = () => {
             <Box display="flex" alignItems="center" justifyContent="space-between" mb={2}>
                 <Box display="flex" alignItems="center">
                     <DriveEtaIcon sx={{
-                        backgroundColor: '#6a1b9a', // light purple
+                        backgroundColor: '#6a1b9a', 
                         boxShadow: '0 2px 6px rgba(0,0,0,0.15)',
                         color: 'white',
                         padding: '2px',
@@ -128,7 +128,7 @@ const ProductVehiclesTable = () => {
                 </Box>
                 <Box>
                     <IconButton sx={{
-                        backgroundColor: '#6a1b9a', // light purple
+                        backgroundColor: '#6a1b9a', 
                         boxShadow: '0 2px 6px rgba(0,0,0,0.15)',
                         color: 'white',
                         padding: '2px',
